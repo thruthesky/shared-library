@@ -1,0 +1,20 @@
+{
+  "name": "shared-library",
+  "version": "1.0.0",
+  "description": "shared-library for sonub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thruthesky/shared-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thruthesky/shared-library/issues"
+  },
+  "homepage": "https://github.com/thruthesky/shared-library#readme"
+}
